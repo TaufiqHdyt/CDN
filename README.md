@@ -10,7 +10,7 @@
 ## Fonts
 ### Roboto
 * https://cdn.tautan.ml/roboto/roboto-latin.woff2
-* https://cdn.tautan.ml/roboto/roboto--medium-latin.woff2
+* https://cdn.tautan.ml/roboto/roboto-medium-latin.woff2
 
 ###Ubuntu
 * https://cdn.tautan.ml/ubuntu/ubuntu-400-latin.woff2
