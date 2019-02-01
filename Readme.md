@@ -1,11 +1,19 @@
 Just **Right-click** then **Copy link address** to use,
 
+## Bootstrap
+* [Jquery-slim.min.js](https://cdn.tautan.ml/bootstrap/jquery-3.3.1.slim.min.js)
+* [popper.min.js](https://cdn.tautan.ml/bootstrap/popper.min.js)
+* [Bootstrap.min](https://cdn.tautan.ml/bootstrap/bootstrap.min.js)
+
 ## Font Awesome
 ### font-awesome-4
 * [Font-Awesome.Min.css](https://cdn.tautan.ml/font-awesome-4/css/font-awesome.min.css)
 
 ### font-awesome-5
 * [All.css](https://cdn.tautan.ml/font-awesome/css/all.min.css)
+
+### font-awesome-5.7
+* [All.css](https://cdn.tautan.ml/font-awesome-5.7/css/all.min.css)
 
 ## Fonts
 ### Roboto
