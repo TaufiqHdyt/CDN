@@ -1,4 +1,4 @@
-Just `Right-click` then `Copy link location` to use,
+Just **Right-click** then **Copy link address** to use,
 
 ## Font Awesome
 ### font-awesome-4
