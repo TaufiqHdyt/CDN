@@ -10,7 +10,9 @@ Just **Right-click** then **Copy link address** to use,
 * [font-awesome.min.css](https://cdn.tautan.ml/font-awesome-4/css/font-awesome.min.css)
 
 ### font-awesome-5
+* [all.css](https://cdn.tautan.ml/font-awesome/css/all.css)
 * [all.min.css](https://cdn.tautan.ml/font-awesome/css/all.min.css)
+* [all-brs.min.css](https://cdn.tautan.ml/font-awesome/css/all-brs.min.css)
 
 ## Fonts
 ### Roboto
