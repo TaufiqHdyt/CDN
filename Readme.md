@@ -7,13 +7,10 @@ Just **Right-click** then **Copy link address** to use,
 
 ## Font Awesome
 ### font-awesome-4
-* [Font-Awesome.Min.css](https://cdn.tautan.ml/font-awesome-4/css/font-awesome.min.css)
+* [font-awesome.min.css](https://cdn.tautan.ml/font-awesome-4/css/font-awesome.min.css)
 
 ### font-awesome-5
-* [All.css](https://cdn.tautan.ml/font-awesome/css/all.min.css)
-
-### font-awesome-5.7
-* [All.css](https://cdn.tautan.ml/font-awesome-5.7/css/all.min.css)
+* [all.min.css](https://cdn.tautan.ml/font-awesome/css/all.min.css)
 
 ## Fonts
 ### Roboto
