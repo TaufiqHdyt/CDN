@@ -3,6 +3,7 @@ Just **Right-click** then **Copy link address** to use,
 ## Bootstrap
 * [Bootstrap.min.css](https://cdn.tautan.ml/bootstrap/bootstrap.min.css)
 * [Jquery-slim.min.js](https://cdn.tautan.ml/bootstrap/jquery-3.3.1.slim.min.js)
+* [Jquery.min.js](https://cdn.tautan.ml/bootstrap/jquery-3.3.1.min.js)
 * [popper.min.js](https://cdn.tautan.ml/bootstrap/popper.min.js)
 * [Bootstrap.min.js](https://cdn.tautan.ml/bootstrap/bootstrap.min.js)
 
