@@ -2,4 +2,4 @@
   for = "/*"
     [headers.values]
     Access-Control-Allow-Origin = "*"
-    cache-control = public, max-age=360000
+    cache-control = "public, max-age=360000"
